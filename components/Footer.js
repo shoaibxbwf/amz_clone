@@ -53,7 +53,7 @@ function Footer({ onBackToTop }) {
                 
                 <div className="border-t border-gray-600 py-4">
                     <div className="container mx-auto px-4 text-center text-gray-400 text-sm">
-                        <p>&copy; 2024 Amazon Clone. All rights reserved. | Cloned by Shoaib</p>
+                        <p>&copy; 2025 Amazon Clone. All rights reserved. | Cloned by Shoaib</p>
                     </div>
                 </div>
             </footer>
