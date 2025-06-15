@@ -1,0 +1,30 @@
+{
+  "name": "amazon-india-clone",
+  "version": "1.0.0",
+  "description": "A fully functional Amazon India clone with React and TailwindCSS",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --listen 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/amazon-india-clone.git"
+  },
+  "keywords": [
+    "amazon",
+    "clone",
+    "react",
+    "tailwindcss",
+    "ecommerce",
+    "india",
+    "shopping",
+    "github-pages"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/amazon-india-clone/issues"
+  },
+  "homepage": "https://your-username.github.io/amazon-india-clone"
+}

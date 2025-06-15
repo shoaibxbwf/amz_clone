@@ -1,0 +1,16 @@
+# GitHub Pages configuration
+title: Amazon India Clone
+description: A fully functional Amazon India clone built with React
+baseurl: ""
+url: ""
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+
+# Exclude files
+exclude:
+  - README.md
+  - package.json
+  - node_modules/
+  - .gitignore
